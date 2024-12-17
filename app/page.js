@@ -18,6 +18,7 @@ export default function Home() {
             Get started by editing <code>app/page.js</code>.
           </li>
           <li>Save and see your changes instantly.</li>
+          <li>No Gamble No Life.</li>
         </ol>
 
         <div className={styles.ctas}>
