@@ -10,7 +10,7 @@ export default async function Home() {
   const allPostsData = await getPostsData();
   return (
     <>
-      <Layout>
+      <Layout home>
         <section className={utilStyles.headingMd}>
           <p>我々は宇宙人だ</p>
         </section>
